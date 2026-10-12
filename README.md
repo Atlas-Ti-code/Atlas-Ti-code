@@ -15,6 +15,7 @@ Hi, my name is Danilo. I'm a technology enthusiast and currently studying Comput
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div><br>
 
- 
+
+ ## Contact
   [![Mail](https://img.shields.io/badge/MAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilo@nascimento.club)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](www.linkedin.com/in/danilo-nascimento-04ba993a6)
