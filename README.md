@@ -17,5 +17,5 @@ Hi, my name is Danilo. I'm a technology enthusiast and currently studying Comput
 
 
  ## Contact
-  [![Mail](https://img.shields.io/badge/MAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilo@nascimento.club)
+  [![E-mail](https://img.shields.io/badge/E--MAIL-333333?style=for-the-badge)](mailto:danilo@nascimento.club)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/danilo-nascimento-04ba993a6)
