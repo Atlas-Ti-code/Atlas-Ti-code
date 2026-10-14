@@ -1,6 +1,13 @@
-## Hi, I'm Danilo.
+## 👋 Hi, I'm Danilo
 
-Hi, my name is Danilo. I'm a technology enthusiast and currently studying Computer Science. I created this profile to share some of my college work and personal projects.  
+IT professional and enthusiast, currently working as a **Junior IT Analyst (Infrastructure)**, with a clear goal: to become a **Cybersecurity and Cloud** professional.
+
+I study **networking** a lot, because I believe that those who master the fundamentals can see what lies behind every system, every attack, and every solution.
+
+📂 On this profile you'll find study notes, projects, and lab experiments about networking, infrastructure, and security. You'll also find a bit of everything else: **programming**, **databases**, and more. It's all part of a journey that is still at the beginning, but with a defined direction.
+
+> *Every day of study is one more step toward what I want to build.*
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
